@@ -1,4 +1,4 @@
-# UnitySitelockingExample
+# Unity Sitelocking Example
 This is an example on how to implement sitelocking in unity.
 
 
